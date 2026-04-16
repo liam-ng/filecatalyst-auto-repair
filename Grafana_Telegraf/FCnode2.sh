@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -X 'GET' -H 'Accept: text/csv, */*; q=0.01' -H 'Content-Type: text/csv' -H 'Restauthorization: BASE64-USER:PASSWORD' -k "https://192.168.1.Server2:12480/rs/reports/data/export?creationDateFrom=$(date -d '-2 minutes' +%s%3N)&creationDateTo=$queryTo&user=user"

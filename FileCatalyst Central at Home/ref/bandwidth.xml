@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BandwidthSchedule>
+	<DayOfWeek Day="Sunday">
+		<Hour OfDay="0" Rate="100000" />
+		<Hour OfDay="1" Rate="100000" />
+		<Hour OfDay="2" Rate="100000" />
+		<Hour OfDay="3" Rate="100000" />
+		<Hour OfDay="4" Rate="100000" />
+		<Hour OfDay="5" Rate="100000" />
+		<Hour OfDay="6" Rate="100000" />
+		<Hour OfDay="7" Rate="100000" />
+		<Hour OfDay="8" Rate="100000" />
+		<Hour OfDay="9" Rate="100000" />
+		<Hour OfDay="10" Rate="100000" />
+		<Hour OfDay="11" Rate="100000" />
+		<Hour OfDay="12" Rate="100000" />
+		<Hour OfDay="13" Rate="100000" />
+		<Hour OfDay="14" Rate="100000" />
+		<Hour OfDay="15" Rate="100000" />
+		<Hour OfDay="16" Rate="100000" />
+		<Hour OfDay="17" Rate="100000" />
+		<Hour OfDay="18" Rate="100000" />
+		<Hour OfDay="19" Rate="100000" />
+		<Hour OfDay="20" Rate="100000" />
+		<Hour OfDay="21" Rate="100000" />
+		<Hour OfDay="22" Rate="100000" />
+		<Hour OfDay="23" Rate="100000" />
+	</DayOfWeek>
+	<DayOfWeek Day="Monday">
+		<Hour OfDay="0" Rate="100000" />
+		<Hour OfDay="1" Rate="100000" />
+		<Hour OfDay="2" Rate="100000" />
+		<Hour OfDay="3" Rate="100000" />
+		<Hour OfDay="4" Rate="100000" />
+		<Hour OfDay="5" Rate="100000" />
+		<Hour OfDay="6" Rate="100000" />
+		<Hour OfDay="7" Rate="100000" />
+		<Hour OfDay="8" Rate="100000" />
+		<Hour OfDay="9" Rate="100000" />
+		<Hour OfDay="10" Rate="100000" />
+		<Hour OfDay="11" Rate="100000" />
+		<Hour OfDay="12" Rate="100000" />
+		<Hour OfDay="13" Rate="100000" />
+		<Hour OfDay="14" Rate="100000" />
+		<Hour OfDay="15" Rate="100000" />
+		<Hour OfDay="16" Rate="100000" />
+		<Hour OfDay="17" Rate="100000" />
+		<Hour OfDay="18" Rate="100000" />
+		<Hour OfDay="19" Rate="100000" />
+		<Hour OfDay="20" Rate="100000" />
+		<Hour OfDay="21" Rate="100000" />
+		<Hour OfDay="22" Rate="100000" />
+		<Hour OfDay="23" Rate="100000" />
+	</DayOfWeek>
+	<DayOfWeek Day="Tuesday">
+		<Hour OfDay="0" Rate="100000" />
+		<Hour OfDay="1" Rate="100000" />
+		<Hour OfDay="2" Rate="100000" />
+		<Hour OfDay="3" Rate="100000" />
+		<Hour OfDay="4" Rate="100000" />
+		<Hour OfDay="5" Rate="100000" />
+		<Hour OfDay="6" Rate="100000" />
+		<Hour OfDay="7" Rate="100000" />
+		<Hour OfDay="8" Rate="100000" />
+		<Hour OfDay="9" Rate="100000" />
+		<Hour OfDay="10" Rate="100000" />
+		<Hour OfDay="11" Rate="100000" />
+		<Hour OfDay="12" Rate="100000" />
+		<Hour OfDay="13" Rate="100000" />
+		<Hour OfDay="14" Rate="100000" />
+		<Hour OfDay="15" Rate="100000" />
+		<Hour OfDay="16" Rate="100000" />
+		<Hour OfDay="17" Rate="100000" />
+		<Hour OfDay="18" Rate="100000" />
+		<Hour OfDay="19" Rate="100000" />
+		<Hour OfDay="20" Rate="100000" />
+		<Hour OfDay="21" Rate="100000" />
+		<Hour OfDay="22" Rate="100000" />
+		<Hour OfDay="23" Rate="100000" />
+	</DayOfWeek>
+	<DayOfWeek Day="Wednesday">
+		<Hour OfDay="0" Rate="100000" />
+		<Hour OfDay="1" Rate="100000" />
+		<Hour OfDay="2" Rate="100000" />
+		<Hour OfDay="3" Rate="100000" />
+		<Hour OfDay="4" Rate="100000" />
+		<Hour OfDay="5" Rate="100000" />
+		<Hour OfDay="6" Rate="100000" />
+		<Hour OfDay="7" Rate="100000" />
+		<Hour OfDay="8" Rate="100000" />
+		<Hour OfDay="9" Rate="100000" />
+		<Hour OfDay="10" Rate="100000" />
+		<Hour OfDay="11" Rate="100000" />
+		<Hour OfDay="12" Rate="100000" />
+		<Hour OfDay="13" Rate="100000" />
+		<Hour OfDay="14" Rate="100000" />
+		<Hour OfDay="15" Rate="100000" />
+		<Hour OfDay="16" Rate="100000" />
+		<Hour OfDay="17" Rate="100000" />
+		<Hour OfDay="18" Rate="100000" />
+		<Hour OfDay="19" Rate="100000" />
+		<Hour OfDay="20" Rate="100000" />
+		<Hour OfDay="21" Rate="100000" />
+		<Hour OfDay="22" Rate="100000" />
+		<Hour OfDay="23" Rate="100000" />
+	</DayOfWeek>
+	<DayOfWeek Day="Thursday">
+		<Hour OfDay="0" Rate="100000" />
+		<Hour OfDay="1" Rate="100000" />
+		<Hour OfDay="2" Rate="100000" />
+		<Hour OfDay="3" Rate="100000" />
+		<Hour OfDay="4" Rate="100000" />
+		<Hour OfDay="5" Rate="100000" />
+		<Hour OfDay="6" Rate="100000" />
+		<Hour OfDay="7" Rate="100000" />
+		<Hour OfDay="8" Rate="100000" />
+		<Hour OfDay="9" Rate="100000" />
+		<Hour OfDay="10" Rate="100000" />
+		<Hour OfDay="11" Rate="100000" />
+		<Hour OfDay="12" Rate="100000" />
+		<Hour OfDay="13" Rate="100000" />
+		<Hour OfDay="14" Rate="100000" />
+		<Hour OfDay="15" Rate="100000" />
+		<Hour OfDay="16" Rate="100000" />
+		<Hour OfDay="17" Rate="100000" />
+		<Hour OfDay="18" Rate="100000" />
+		<Hour OfDay="19" Rate="100000" />
+		<Hour OfDay="20" Rate="100000" />
+		<Hour OfDay="21" Rate="100000" />
+		<Hour OfDay="22" Rate="100000" />
+		<Hour OfDay="23" Rate="100000" />
+	</DayOfWeek>
+	<DayOfWeek Day="Friday">
+		<Hour OfDay="0" Rate="100000" />
+		<Hour OfDay="1" Rate="100000" />
+		<Hour OfDay="2" Rate="100000" />
+		<Hour OfDay="3" Rate="100000" />
+		<Hour OfDay="4" Rate="100000" />
+		<Hour OfDay="5" Rate="100000" />
+		<Hour OfDay="6" Rate="100000" />
+		<Hour OfDay="7" Rate="100000" />
+		<Hour OfDay="8" Rate="100000" />
+		<Hour OfDay="9" Rate="100000" />
+		<Hour OfDay="10" Rate="100000" />
+		<Hour OfDay="11" Rate="100000" />
+		<Hour OfDay="12" Rate="100000" />
+		<Hour OfDay="13" Rate="100000" />
+		<Hour OfDay="14" Rate="100000" />
+		<Hour OfDay="15" Rate="100000" />
+		<Hour OfDay="16" Rate="100000" />
+		<Hour OfDay="17" Rate="100000" />
+		<Hour OfDay="18" Rate="100000" />
+		<Hour OfDay="19" Rate="100000" />
+		<Hour OfDay="20" Rate="100000" />
+		<Hour OfDay="21" Rate="100000" />
+		<Hour OfDay="22" Rate="100000" />
+		<Hour OfDay="23" Rate="100000" />
+	</DayOfWeek>
+	<DayOfWeek Day="Saturday">
+		<Hour OfDay="0" Rate="100000" />
+		<Hour OfDay="1" Rate="100000" />
+		<Hour OfDay="2" Rate="100000" />
+		<Hour OfDay="3" Rate="100000" />
+		<Hour OfDay="4" Rate="100000" />
+		<Hour OfDay="5" Rate="100000" />
+		<Hour OfDay="6" Rate="100000" />
+		<Hour OfDay="7" Rate="100000" />
+		<Hour OfDay="8" Rate="100000" />
+		<Hour OfDay="9" Rate="100000" />
+		<Hour OfDay="10" Rate="100000" />
+		<Hour OfDay="11" Rate="100000" />
+		<Hour OfDay="12" Rate="100000" />
+		<Hour OfDay="13" Rate="100000" />
+		<Hour OfDay="14" Rate="100000" />
+		<Hour OfDay="15" Rate="100000" />
+		<Hour OfDay="16" Rate="100000" />
+		<Hour OfDay="17" Rate="100000" />
+		<Hour OfDay="18" Rate="100000" />
+		<Hour OfDay="19" Rate="100000" />
+		<Hour OfDay="20" Rate="100000" />
+		<Hour OfDay="21" Rate="100000" />
+		<Hour OfDay="22" Rate="100000" />
+		<Hour OfDay="23" Rate="100000" />
+	</DayOfWeek>
+</BandwidthSchedule>

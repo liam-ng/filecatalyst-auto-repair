@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SiteList>
+	<Site
+		ID="Site 1"
+		Type="FileCatalyst"
+		Host="192.168.1.123"
+		Port="990"
+		UseSSL="false"
+		ServletURL=""
+		EnableAuth="true"
+		Username="fcuser"
+		Password="AES_"
+		BlockSize="4096000"
+		OptimizeBlockSize="true"
+		UnitSize="1024"
+		NumCodecs="5"
+		NumFTPStreams="5"
+		PathMTU="1500"
+		AverageRTT="150"
+		AveragePacketLoss="0.6"
+		ConnectTimeout="30"
+		ReadTimeout="30"
+		ReadTimeoutLong="1800"
+		Upstream="100000"
+		Downstream="100000"
+		MaxRetries="10"
+		WaitRetry="3"
+		NumSenderSockets="1"
+		NumReceiverSockets="1"
+		Enabled="true"
+		PromptForCreds="false"
+	/>
+</SiteList>
